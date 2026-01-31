@@ -285,6 +285,30 @@ You can find out everything you need to know on how to use TanStack Store in the
 
 Files prefixed with `demo` can be safely deleted. They are there to provide a starting point for you to play around with the features you've installed.
 
+## Screenshots
+
+### t-SNE Cluster Visualization
+![Hero](./Screenshots/sparkableheader.png)
+
+### Cluster Statistics and Metrics
+![Footer](./Screenshots/sparkablefooter.png)
+
+
+
+
+
+## How to Run the Project
+
+Install dependencies:
+pip install -r requirements.txt
+
+Run the application:
+python -m streamlit run app.py
+
+The app will open automatically in your browser.
+
+---
+
 # Learn More
 
 You can learn more about all of the offerings from TanStack in the [TanStack documentation](https://tanstack.com).
