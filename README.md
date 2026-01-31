@@ -288,10 +288,10 @@ Files prefixed with `demo` can be safely deleted. They are there to provide a st
 ## Screenshots
 
 ### t-SNE Cluster Visualization
-![Hero](./Screenshots/sparkableheader.png)
+![Hero](./screenshots/sparkableheader.png)
 
 ### Cluster Statistics and Metrics
-![Footer](./Screenshots/sparkablefooter.png)
+![Footer](./screenshots/sparkablefooter.png)
 
 
 
